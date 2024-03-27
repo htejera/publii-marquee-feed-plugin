@@ -72,5 +72,5 @@ For support, feature requests, or to report a bug, please visit the [GitHub issu
 
 ## License
 
-This plugin is released under the MIT License. See the bundled [LICENSE](LICENSE.md) file for details.
+This plugin is released under the MIT License. See the bundled [LICENSE](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/LICENSE) file for details.
 
