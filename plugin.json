@@ -1,0 +1,128 @@
+{
+    "name": "Marquee Feed Plugin",
+    "description": "This plugin allows website owners to easily add a marquee to their site that displays the most recent titles from an XML feed. This is an attractive and dynamic way to present updated content to visitors, improving the user experience by providing quick access to the latest posts.",
+    "license": "MIT",
+    "author": "htejera",
+    "version": "1.0.0",
+    "scope": "site",
+    "minimumPubliiVersion": "0.40.0",
+    "usePluginSettingsView": true,
+    "messageInOptions": {
+        "type": "info",
+        "text": "To enable the marquee functionality, make sure to enter the XML feed URL in the plugin settings. You can also customize the experience by adjusting the available configuration parameters according to your needs."
+    },
+    "config": [
+        {
+            "name": "feedUrl",
+            "label": "XML Feed URL",
+            "note": "Enter the URL to your website's XML feed to display the titles in the marquee.",
+            "group": "General Settings",
+            "value": "./feed.xml",
+            "type": "text"
+        },
+        {
+            "name": "showOnMobile",
+            "label": "Show on Mobile",
+            "note": "Check this box to display the marquee on mobile devices.",
+            "group": "General Settings",
+            "value": true,
+            "type": "checkbox"
+        },
+        {
+            "name": "marqueeWidth",
+            "label": "Marquee Width",
+            "note": "Default: '100%'.",
+            "group": "Marquee Appearance",
+            "value": "100%",
+            "type": "text"
+        },
+        {
+            "name": "borderTop",
+            "label": "Top Border",
+            "note": "Style for the top border of the marquee. Default: 'dashed'.",
+            "group": "Marquee Appearance",
+            "value": "dashed",
+            "type": "text"
+        },
+        {
+            "name": "borderBottom",
+            "label": "Bottom Border Style",
+            "note": "Style for the bottom border of the marquee. Default: 'dashed'.",
+            "group": "Marquee Appearance",
+            "value": "dashed",
+            "type": "text"
+        },
+        {
+            "name": "borderColor",
+            "label": "Border Color",
+            "note": "Color of the marquee border. Default: 'white'.",
+            "group": "Marquee Appearance",
+            "value": "#000000",
+            "type": "colorpicker"
+        },
+        {
+            "name": "textSize",
+            "label": "Text Size",
+            "note": "The size of the content text. Default: '14px'.",
+            "group": "Marquee Appearance",
+            "value": "14px",
+            "type": "text"
+        },
+        {
+            "name": "textColor",
+            "label": "Text Color",
+            "note": "The color of the content text. Default: 'White'.",
+            "group": "Marquee Appearance",
+            "value": "#FFFFFF",
+            "type": "colorpicker"
+        },
+        {
+            "name": "linkHoverColor",
+            "label": "Link Hover Color",
+            "note": "The color of the link when the user hovers over it. Default: 'Blue'.",
+            "group": "Marquee Appearance",
+            "value": "#1071AF",
+            "type": "colorpicker"
+        },
+        {
+            "name": "backgroundColor",
+            "label": "Background Color",
+            "note": "The color of the marquee's background. Default: 'Black'.",
+            "group": "Marquee Appearance",
+            "value": "#000000",
+            "type": "colorpicker"
+        },
+        {
+            "name": "animationSpeed",
+            "label": "Animation Speed",
+            "note": "Adjust the speed of the marquee animation (in seconds). Default value: 100s.",
+            "group": "Animation Settings",
+            "value": "100",
+            "type": "text"
+        },
+        {
+            "name": "info",
+            "label": "Information Message",
+            "note": "This message will be displayed next to the marquee. It can be useful for providing context or additional information.",
+            "group": "Animation Settings",
+            "value": "Latest News:",
+            "type": "text"
+        },
+        {
+            "name": "marqueeSeparator",
+            "label": "Title Separator",
+            "note": "The text or symbol used to separate the titles in the marquee. Default: '|'.",
+            "group": "Animation Settings",
+            "value": "|",
+            "type": "text"
+        },
+        {
+            "name": "targetElementSelector",
+            "label": "Target Element Selector for the Marquee",
+            "note": "Enter the CSS selector of the element where you want to insert the marquee. For example, '#myElementId' for an ID or '.myClass' for a class. Default: 'body'",
+            "group": "Marquee Placement",
+            "value": "body",
+            "type": "text"
+        }
+    ]
+}
