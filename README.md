@@ -12,10 +12,13 @@ The Marquee Feed Plugin allows [Publii](https://getpublii.com) site owners to ea
 
 ## Installation
 
-1. Download the plugin from the [GitHub repository](#).
-2. In your Publii application, go to the `Plugins` section.
-3. Click on `Add Plugin` and select the downloaded plugin file.
-4. Once installed, the plugin will appear in your list of installed plugins. Click `Configure` to open the plugin's settings.
+1. Download the plugin from the Release page [GitHub repository](#).
+2. In Publii, go to "Plugins" > "Add new" and select the downloaded ZIP file
+3. Activate the plugin.
+4. Go to the "Plugins" section in the Publii app and enable the "Marquee Feed Plugin".
+
+![Marquee Feed Plugin instaled](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-plugin-instaled.jpg?raw=true)   
+![Marquee Feed Plugin enabled](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-plugin-enabled.jpg?raw=true)   
 
 ## Configuration
 
@@ -31,6 +34,8 @@ Configure the plugin according to your needs using the following settings:
 - **Target Element Selector**: Specify the CSS selector of the element where you want the marquee to be inserted.
 - **Information Message**: Optionally, add a message that will be displayed next to the marquee titles.
 - **Title Separator**: Choose a text or symbol to separate the titles within the marquee.
+
+![Marquee Feed Plugin configuration](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-plugin-configuration.jpg?raw=true)
 
 ## Usage
 
