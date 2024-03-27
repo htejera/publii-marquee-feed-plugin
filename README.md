@@ -10,6 +10,25 @@ The Marquee Feed Plugin allows [Publii](https://getpublii.com) site owners to ea
 - **Animation Control**: Adjust the speed of the scrolling animation to fit your preference.
 - **Easy to Install and Configure**: Simple setup process through Publii's plugin interface.
 
+## Plugin Demo
+
+### Mercury Theme
+
+See the plugin on a site using Publii's Mercury theme. The marquee is at the top, showcasing the latest content.
+
+[Open demo](https://marqueeplugin.surge.sh)
+![Mercury Theme Marquee](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-mercury.gif?raw=true)
+
+
+### Tech News Theme
+This example shows the marquee at the bottom of a page using the Tech News theme, encouraging visitors to explore more.
+
+[Open demo](https://marqueeplugin-technews.surge.sh)
+![Tech News Theme Marquee](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-technews.gif?raw=true)
+
+
+
+
 ## Installation
 
 1. Download the plugin from the Release page [GitHub repository](#).
