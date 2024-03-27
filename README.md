@@ -68,7 +68,7 @@ Once configured, the marquee will automatically appear on your site based on you
 
 ## Support
 
-For support, feature requests, or to report a bug, please visit the [GitHub issues page](#).
+For support, feature requests, or to report a bug, please visit the [GitHub issues page](https://github.com/htejera/publii-marquee-feed-plugin/issues).
 
 ## License
 
