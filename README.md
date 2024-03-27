@@ -1,6 +1,12 @@
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/htejera/publii-marquee-feed-plugin/main/thumbnail.svg" width= "50%" height="50%" alt="Marquee Feed Plugin for Publii">
+</div>
+
 # Marquee Feed Plugin for Publii
 
 The Marquee Feed Plugin allows [Publii](https://getpublii.com) site owners to easily add a dynamic marquee to their site that displays the latest titles from the XML feed. This plugin enhances the visual appeal of your site and improves user engagement by providing quick access to your most recent content.
+
 
 ## Features
 
