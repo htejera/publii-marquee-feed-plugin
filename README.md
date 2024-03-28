@@ -1,6 +1,12 @@
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/htejera/publii-marquee-feed-plugin/main/thumbnail.svg" width= "50%" height="50%" alt="Marquee Feed Plugin for Publii">
+</div>
+
 # Marquee Feed Plugin for Publii
 
 The Marquee Feed Plugin allows [Publii](https://getpublii.com) site owners to easily add a dynamic marquee to their site that displays the latest titles from the XML feed. This plugin enhances the visual appeal of your site and improves user engagement by providing quick access to your most recent content.
+
 
 ## Features
 
@@ -9,6 +15,25 @@ The Marquee Feed Plugin allows [Publii](https://getpublii.com) site owners to ea
 - **Customizable Appearance**: Offers settings for text size, color, and marquee background color to match your site's design.
 - **Animation Control**: Adjust the speed of the scrolling animation to fit your preference.
 - **Easy to Install and Configure**: Simple setup process through Publii's plugin interface.
+
+## Plugin Demo
+
+### Mercury Theme
+
+See the plugin on a site using Publii's Mercury theme. The marquee is at the top, showcasing the latest content.
+
+[Open demo](https://marqueeplugin.surge.sh)
+![Mercury Theme Marquee](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-mercury.gif?raw=true)
+
+
+### Tech News Theme
+This example shows the marquee at the bottom of a page using the Tech News theme, encouraging visitors to explore more.
+
+[Open demo](https://marqueeplugin-technews.surge.sh)
+![Tech News Theme Marquee](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-technews.gif?raw=true)
+
+
+
 
 ## Installation
 
@@ -43,9 +68,9 @@ Once configured, the marquee will automatically appear on your site based on you
 
 ## Support
 
-For support, feature requests, or to report a bug, please visit the [GitHub issues page](#).
+For support, feature requests, or to report a bug, please visit the [GitHub issues page](https://github.com/htejera/publii-marquee-feed-plugin/issues).
 
 ## License
 
-This plugin is released under the MIT License. See the bundled [LICENSE](LICENSE.md) file for details.
+This plugin is released under the MIT License. See the bundled [LICENSE](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/LICENSE) file for details.
 
