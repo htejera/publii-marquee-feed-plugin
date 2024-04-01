@@ -32,18 +32,12 @@ This example shows the marquee at the bottom of a page using the Tech News theme
 [Open demo](https://marqueeplugin-technews.surge.sh)
 ![Tech News Theme Marquee](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-technews.gif?raw=true)
 
-
-
-
 ## Installation
 
 1. Download the plugin from the [Release page](https://github.com/htejera/publii-marquee-feed-plugin/releases).
 2. In Publii, go to "Plugins" > "Add new" and select the downloaded ZIP file
 3. Activate the plugin.
 4. Go to the "Plugins" section in the Publii app and enable the "Marquee Feed Plugin".
-
-![Marquee Feed Plugin instaled](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-plugin-instaled.jpg?raw=true)   
-![Marquee Feed Plugin enabled](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/marquee-plugin-enabled.jpg?raw=true)   
 
 ## Configuration
 
@@ -72,5 +66,5 @@ For support, feature requests, or to report a bug, please visit the [GitHub issu
 
 ## License
 
-This plugin is released under the MIT License. See the bundled [LICENSE](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/LICENSE) file for details.
+This plugin is released under the MIT License. See the bundled [LICENSE](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/LICENSE) file for details. The author of the icon is designmodo.
 
