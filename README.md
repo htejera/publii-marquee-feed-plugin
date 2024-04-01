@@ -66,5 +66,6 @@ For support, feature requests, or to report a bug, please visit the [GitHub issu
 
 ## License
 
-This plugin is released under the MIT License. See the bundled [LICENSE](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/LICENSE) file for details. The author of the icon is designmodo.
+This plugin is released under the MIT License. See the bundled [LICENSE](https://github.com/htejera/publii-marquee-feed-plugin/blob/main/LICENSE) file for details.
+Vectors and icons by <a href="https://github.com/designmodo/Flat-UI?ref=svgrepo.com" target="_blank">Designmodo</a> in MIT License via <a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a>
 
