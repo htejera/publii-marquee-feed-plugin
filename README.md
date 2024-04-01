@@ -37,7 +37,7 @@ This example shows the marquee at the bottom of a page using the Tech News theme
 
 ## Installation
 
-1. Download the plugin from the Release page [GitHub repository](#).
+1. Download the plugin from the [Release page](https://github.com/htejera/publii-marquee-feed-plugin/releases).
 2. In Publii, go to "Plugins" > "Add new" and select the downloaded ZIP file
 3. Activate the plugin.
 4. Go to the "Plugins" section in the Publii app and enable the "Marquee Feed Plugin".
