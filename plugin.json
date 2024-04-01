@@ -3,10 +3,10 @@
     "description": "This plugin allows website owners to easily add a marquee to their site that displays the most recent titles from an XML feed. This is an attractive and dynamic way to present updated content to visitors, improving the user experience by providing quick access to the latest posts.",
     "license": "MIT",
     "author": "htejera",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "scope": "site",
     "minimumPubliiVersion": "0.40.0",
-    "usePluginSettingsView": true,
+    "usePluginSettingsView": false,
     "messageInOptions": {
         "type": "info",
         "text": "To enable the marquee functionality, make sure to enter the XML feed URL in the plugin settings. You can also customize the experience by adjusting the available configuration parameters according to your needs."
